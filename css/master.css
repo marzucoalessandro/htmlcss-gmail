@@ -18,7 +18,7 @@ background-size: cover;
   color: white;
   font-weight: 400;
   font-size: 30px;
-  
+
 }
 
 #barra_nav{
@@ -42,7 +42,7 @@ background-size: cover;
 
 }
 
-#riga1{
+.riga1{
   background-color: lightgrey;
   border-bottom: 2px solid black;
   padding-top: 2px;
@@ -57,11 +57,11 @@ background-size: cover;
   border-bottom: 2px solid black;
 }
 
-#textbold{
+.textbold{
   font-weight: bolder;
 }
 
-#textgrey{
+.textgrey{
   color: grey;
 }
 
