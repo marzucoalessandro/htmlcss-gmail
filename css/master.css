@@ -18,13 +18,18 @@ background-size: cover;
   color: white;
   font-weight: 400;
   font-size: 30px;
-
 }
 
 #barra_nav{
   border-top: 3px solid white;
   border-bottom: 3px solid white;
   margin-bottom: 10px;
+}
+
+#cerca{
+  color: grey;
+
+
 }
 
 #button{
@@ -34,11 +39,13 @@ background-size: cover;
 
 #avviso{
   color: white;
+
 }
 
 #cerchio{
   background-color: orange;
   border-radius: 45px;
+
 
 }
 
